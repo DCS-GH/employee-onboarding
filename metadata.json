@@ -1,0 +1,6 @@
+{
+  "name": "Employee Onboarding Portal",
+  "description": "A comprehensive enterprise-grade platform covering the complete onboarding lifecycle with interactive modules for joiners, HR, managers, and IT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
